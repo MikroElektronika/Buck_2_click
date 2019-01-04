@@ -1,0 +1,5 @@
+unit Click_Buck2_config;
+
+uses Click_Buck2_types;
+
+end.
